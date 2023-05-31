@@ -92,7 +92,7 @@
                         <p class="color-highlight font-600 mb-n1">Riding Solution</p>
                         <h1 class="font-24 font-700 mb-2">WeatherGO<i class="fa fa-star mt-n2 font-30 color-yellow-dark float-end me-2 scale-box"></i></h1>
                         <p class="mb-1">
-                            This application will make it easier for users to find out the route to the destination. in addition, users will also get developments regarding the weather in an area.
+                            This application will make it's easier for users to find out the route to the destination. in addition, users will also get developments regarding the weather in an area.
                         </p>
                     </div>
                 </div>
