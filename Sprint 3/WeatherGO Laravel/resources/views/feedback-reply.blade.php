@@ -96,7 +96,7 @@
                                     aria-label="
                 Desa
             : activate to sort column ascending">
-                                    Reply 
+                                    Reply Massage
                                 </th>
                             </tr>
                         </thead>
