@@ -277,7 +277,7 @@
                             });
                         </script>
                         {{-- <iframe _ngcontent-ng-c2225116341="" allow="fullscreen" aria-label="Interactive demo" class="cfc-height-full cfc-width-full" sandboxuid="0" src="https://storage.googleapis.com/sb-demos/7ba76cbb-b4df-4886-9358-10e2779f6adb?GoogleAccessId=demo-creator@gmp-playground.iam.gserviceaccount.com&amp;Expires=1681026982&amp;Signature=kwM6XmPGF8x5zgUZJwHpRE%2F7wM9XuuWbTfNJSbw4IOjOWncTzDPkDvIi0XJnk9pI51aA9TCuDMzLihx%2F83KBLCdG1n64ozzV4vhO%2BKkRDouE3UqtwVVYqQmRm11lMqlymPwPS9ghp7XTMxohdU%2FypKWHpGZJ%2F1cBAk3G6Y3aCs%2B%2BTSWqev1u4WLak%2FJ1%2BztxeYe0JmTR4Zt7x9BPmNi5EZw7pulqcjaSbZuCmSACwhFbGQHKsVrW1enUwfJmwibggHWTSa%2BQAoEmaE5UBxp9%2B%2BxmSuoaHWsTuqTlYiqWPzAfVZzzxJw0QGzmOzd69suJPIw2SfGwa0SjmbOt6NSuYA%3D%3D" sandbox="allow-same-origin allow-scripts allow-forms allow-popups allow-popups-to-escape-sandbox" style="border-radius:12px" width="100%" height="456"></iframe> --}}
-                        <p class="mb-n1 color-highlight font-600">Loca</p>
+                        <p class="mb-n1 color-highlight font-600">Locat</p>
                         <h1>Maps</h1>
                         <p class="mb-1">You can choose your destination!</p>
                     </div>
