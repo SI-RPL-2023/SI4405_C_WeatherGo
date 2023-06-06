@@ -33,7 +33,7 @@
         <a href="https://timeline.google.com/maps/timeline?hl=en&authuser=0&pli=1&rapt=AEjHL4MPnuDuKxJK938FR1ZYdnZxZA4wm2ELbhVFEASy8solDsMq6ukbJOhUBuSsQB_GcFFY8ZGMdMjJnJxxYm29ngFk1c5VCw&pb=!1m2!1m1!1s"><i class="fa fa-file"></i><span>History</span></a>
         <a href="{{route('home')}}" class="circle-nav active-nav"><i class="fa fa-home"></i><span>Welcome</span></a>
         <a href="{{route('galery')}}"><i class="fa fa-image"></i><span>Galery</span></a>
-        <a href="#" data-menu="menu-main"><i class="fa fa-bars"></i><span>M</span></a>
+        <a href="#" data-menu="menu-main"><i class="fa fa-bars"></i><span>Menu</span></a>
     </div>
 
 
@@ -52,7 +52,7 @@
                 {{-- <div class="input-style no-borders has-icon validate-field mb-4">
                     <i class="fa fa-at"></i>
                     <input type="email" class="form-control validate-name" id="email" placeholder="Email Address">
-                    <label for="email" class="color-highlight">Username</label>
+                    <label for="email" class="color-highlight">Us</label>
                     <i class="fa fa-times disabled invalid color-red-dark"></i>
                     <i class="fa fa-check disabled valid color-green-dark"></i>
                     <em>(required)</em>
