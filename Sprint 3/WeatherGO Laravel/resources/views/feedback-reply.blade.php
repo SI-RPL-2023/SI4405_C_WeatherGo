@@ -122,7 +122,7 @@
         <div id="menu-share" class="menu menu-box-bottom menu-box-detached">
             <div class="menu-title mt-n1">
                 <h1>Share the Love</h1>
-                <p class="color-highlight">Just Tap the Social Icon. We'll add the </p><a href="#"
+                <p class="color-highlight">Just Tap the Social Icon. We'll add the Link</p><a href="#"
                     class="close-menu"><i class="fa fa-times"></i></a>
             </div>
             <div class="content mb-0">
