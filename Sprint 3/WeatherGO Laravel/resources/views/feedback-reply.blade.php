@@ -61,7 +61,7 @@
         </div>
         <div class="page-title-clear"></div>
 
-        <div id="menu-main" class="menu menu-box-left rounded-0" data-menu-width="280" data-men-active="nav-welcome"
+        <div id="menu-main" class="menu menu-box-left rounded-0" data-menu-width="280" data-menu-active="nav-welcome"
             data-menu-load="{{ route('main') }}"></div>
         <div id="menu-share" class="menu menu-box-bottom rounded-m" data-menu-load="menu-share.blade.php"
             data-menu-height="370"> </div>
