@@ -57,7 +57,7 @@
             <div class="d-flex">
                 <div class="pe-3">
                     <h5 class="color-white">-</h5>
-                    <h6 class="color-white opacity-60">Vis</h6>
+                    <h6 class="color-white opacity-60">Visi</h6>
                 </div>
                 <div class="pe-3">
                     <h5 class="color-white">{{$userCount}}</h5>
