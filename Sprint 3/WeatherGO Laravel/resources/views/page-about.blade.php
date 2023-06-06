@@ -90,7 +90,7 @@
                 <div class="card card-style">
                     <img src="{{asset('images/orang (1).png')}}" class="img-fluid">
                     <div class="content pb-0">
-                        <p class="mb-n1 color-highlight font-600">Fahreza, Afif, Daffa, Raissa, Praika</p>
+                        <p class="mb-n1 color-highlight font-600">Fahreza, Afif, Daffa, Raissa, Pradika</p>
                         <h1>Programmer</h1>
                         <p class="mb-0">mCreating instructions and program integration with the backend is related to data, and the frontend is related to the appearance of the program.</p>
                     </div>            
