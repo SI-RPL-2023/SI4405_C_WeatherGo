@@ -1,6 +1,6 @@
 <div class="card card-style">
     <div class="content">
-        <p class="font-600 color-highlight mb-n1">Ex Information</p>
+        <p class="font-600 color-highlight mb-n1">Extra Information</p>
         <h3>Order Notes</h3>
         <p>
             Tell us if there's something you don't want us to forget
