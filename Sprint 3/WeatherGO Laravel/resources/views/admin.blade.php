@@ -98,7 +98,7 @@
                         <div class="divider mb-3"></div>
 
                         <div class="mb-4">
-                            <h5>Mem<span class="opacity-30 float-end">30%</span></h5>
+                            <h5>Memo<span class="opacity-30 float-end">30%</span></h5>
                             <div class="progress" style="height:8px;">
                                 <div class="progress-bar border-0 bg-green-dark text-start ps-2" 
                                      role="progressbar" style="width: 30%" 
