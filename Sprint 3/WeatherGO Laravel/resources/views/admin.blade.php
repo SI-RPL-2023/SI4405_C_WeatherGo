@@ -159,7 +159,7 @@
         <tr role="row"><th style="width: 19.5208px;" class="sorting sorting_asc" tabindex="0" aria-controls="dataTable" rowspan="1" colspan="1" aria-sort="ascending" aria-label="
                 No
             : activate to sort column descending">
-                Age
+                ID
             </th><th style="width: 149.667px;" class="sorting" tabindex="0" aria-controls="dataTable" rowspan="1" colspan="1" aria-label="
                 Nama Lengkap
             : activate to sort column ascending">
