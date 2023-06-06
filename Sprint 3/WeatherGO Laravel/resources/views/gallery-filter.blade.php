@@ -44,7 +44,7 @@
                 <p class="mb-n1 color-highlight font-600">Albums</p>
                 <h1>My Albums</h1>
                 <p>
-                    You can put and see the beautiful moment!!
+                    You can put and see the beautiful moment!!!
                 </p>
                 <div class="divider"></div>
                 
