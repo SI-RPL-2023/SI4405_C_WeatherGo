@@ -45,7 +45,7 @@
             <a href="{{ route('home') }}" class="circle-nav active-nav"><i
                     class="fa fa-home"></i><span>Welcome</span></a>
             <a href="{{ route('galery') }}"><i class="fa fa-image"></i><span>Galery</span></a>
-            <a href="#" data-menu="menu-main"><i class="fa fa-bars"></i><span>Me</span></a>
+            <a href="#" data-menu="menu-main"><i class="fa fa-bars"></i><span>Menu</span></a>
         </div>
 
         <div class="page-title page-title-fixed">
