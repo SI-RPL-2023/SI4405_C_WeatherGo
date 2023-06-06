@@ -65,7 +65,7 @@
                 </div>
                 <div class="pe-3">
                     <h5 class="color-white">{{$feedbackCount}}</h5>
-                    <h6 class="color-white opacity-60">Feedba</h6>
+                    <h6 class="color-white opacity-60">Feedbac</h6>
                 </div>
             </div>
         </div>
