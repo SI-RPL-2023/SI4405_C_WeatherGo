@@ -152,8 +152,8 @@
             <div class="content mt-0">
                 <div class="divider"></div>
 
-                <h3 class="font-700">Posta Information</h3>
-                <p class="pb-0 mb-0">Jl. Telekomunikasi. 1, Terusan Buahbatu - Bojongsoang,</p>
+                <h3 class="font-700">Postal Information</h3>
+                <p class="pb-0 mb-0">Jl. Telekom. 1, Terusan Buahbatu - Bojongsoang,</p>
                 <p class="pb-0 mb-0">Telkom University, Sukapura, Kec. Dayeuhkolot,</p>
                 <p class="pb-0">Kabupaten Bandung, Jawa Barat 40257</p>
 
