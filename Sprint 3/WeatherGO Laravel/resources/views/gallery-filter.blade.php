@@ -42,7 +42,7 @@
         <div class="card card-style">
             <div class="content"> 
                 <p class="mb-n1 color-highlight font-600">Albums</p>
-                <h1>your Albums</h1>
+                <h1>My Albums</h1>
                 <p>
                     You can put and see the beautiful moment!
                 </p>
