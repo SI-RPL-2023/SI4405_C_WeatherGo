@@ -80,7 +80,7 @@
                 <div class="card card-style">
                     <img src="{{asset('images/orang (3).png')}}" class="img-fluid">
                     <div class="content pb-0">
-                        <p class="mb-n1 color-highlight font-600">Annisa</p>
+                        <p class="mb-n1 color-highlight font-600">Anisa</p>
                         <h1>Project Manager</h1>
                         <p class="mb-0">Responsible for planning, organizing, controlling and managing the entire project so that the project runs smoothly and successfully.</p>
                     </div>            
