@@ -133,7 +133,7 @@
             <div class="col-6">
                 <div class="card mx-0 card-style" data-card-height="260">
                     <div class="content">
-                        <h5 class="font-14 opacity-50">Running Website<a href="#" class="float-end color-highlight"><i class="fa fa-arrow-right"></i></a></h5>
+                        <h5 class="font-14 opacity-50">Running<a href="#" class="float-end color-highlight"><i class="fa fa-arrow-right"></i></a></h5>
                         <div class="divider mb-3"></div>
                     </div>
                     <div class="card-center text-center pb-4">
