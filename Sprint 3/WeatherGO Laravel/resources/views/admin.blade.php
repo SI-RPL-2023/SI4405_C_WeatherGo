@@ -235,7 +235,7 @@
                 </a>
                 <a href="auto_generated" class="shareToMail external-link border-0">
                     <i class="font-18 fa fa-envelope-square color-mail"></i>
-                    <span class="font-13">Em</span>
+                    <span class="font-13">Ema</span>
                     <i class="fa fa-angle-right"></i>
                 </a>
             </div>
