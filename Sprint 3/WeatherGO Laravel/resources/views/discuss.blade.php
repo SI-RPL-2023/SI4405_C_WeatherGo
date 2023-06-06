@@ -51,7 +51,7 @@
         <div class="card card-style">
             <div class="content">
                 <p>
-                    Comments, reactions, and share
+                    Comments, reactions, and shar
                 </p>
             </div>
         </div>
