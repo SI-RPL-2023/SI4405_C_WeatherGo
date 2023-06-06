@@ -79,7 +79,7 @@
                     <a href="#" class="border-0">
                         <i class="fa font-14 fa-weight-hanging color-brown-dark"></i>
                         <span>File Size</span>
-                        <strong class="upload-file-size">JS Populated</strong>
+                        <strong class="upload-file-size">J Populated</strong>
                     </a>        
                     <a href="#" class="border-0">
                         <i class="fa font-14 fa-tag color-red-dark"></i>
