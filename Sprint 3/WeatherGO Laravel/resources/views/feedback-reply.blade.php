@@ -130,7 +130,7 @@
                 <div class="list-group list-custom-small list-icon-0">
                     <a href="auto_generated" class="shareToFacebook external-link">
                         <i class="font-18 fab fa-facebook-square color-facebook"></i>
-                        <span class="font-13">Facebook</span>
+                        <span class="font-13">Face</span>
                         <i class="fa fa-angle-right"></i>
                     </a>
                     <a href="auto_generated" class="shareToTwitter external-link">
