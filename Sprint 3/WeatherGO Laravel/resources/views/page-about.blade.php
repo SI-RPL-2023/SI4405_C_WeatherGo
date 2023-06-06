@@ -67,7 +67,7 @@
         
         <div class="card card-style">
             <div class="content">
-                <p class="mb-0 font-600 color-highlight">Weath</p>
+                <p class="mb-0 font-600 color-highlight">Weathe</p>
                 <h1>About Us</h1>
                 <p>
                     Welcome to our website! We are your one-stop destination for easy navigation, weather updates, and a touch of music to make your journey smooth and enjoyable. With our user-friendly features, we aim to simplify your travel experience. With our navigation feature, you can effortlessly find the best routes and receive step-by-step directions to reach your destination hassle-free. Say goodbye to getting lost and hello to stress-free travel. Stay informed about the weather conditions with our real-time weather updates. Check the forecast, be prepared for any changes, and make informed decisions for your trip. To add a touch of joy to your journey, we offer a music feature. Create personalized playlists or explore our curated collections to enjoy your favorite tunes as you travel. Our commitment is to make your travel experience easier, more convenient, and enjoyable. We continuously strive to enhance our platform and provide you with the best navigation, weather, and music features.
