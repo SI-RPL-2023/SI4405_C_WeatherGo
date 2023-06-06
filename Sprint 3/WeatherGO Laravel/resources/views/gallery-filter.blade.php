@@ -49,7 +49,7 @@
                 <div class="divider"></div>
                 
                 <ul class="gallery-filter-controls">
-                    <li class="color-highlight gallery-filter-all pt-1 pb-1" data-filter="all">Recent</li>
+                    <li class="color-highlight gallery-filter-all pt-1 pb-1" data-filter="all">RecentS</li>
                     <li data-filter="2">Selfies</li>
                     <li data-filter="1">Videos</li>
                     <li data-filter="3">Photos</li>
