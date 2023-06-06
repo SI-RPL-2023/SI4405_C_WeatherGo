@@ -41,7 +41,7 @@
             <a href="https://www.google.com/maps"><i class="fa fa-layer-group"></i><span>Maps</span></a>
             <a
                 href="https://timeline.google.com/maps/timeline?hl=en&authuser=0&pli=1&rapt=AEjHL4MPnuDuKxJK938FR1ZYdnZxZA4wm2ELbhVFEASy8solDsMq6ukbJOhUBuSsQB_GcFFY8ZGMdMjJnJxxYm29ngFk1c5VCw&pb=!1m2!1m1!1s"><i
-                    class="fa fa-file"></i><span>hhh</span></a>
+                    class="fa fa-file"></i><span>History</span></a>
             <a href="{{ route('home') }}" class="circle-nav active-nav"><i
                     class="fa fa-home"></i><span>Welcome</span></a>
             <a href="{{ route('galery') }}"><i class="fa fa-image"></i><span>Galery</span></a>
@@ -61,7 +61,7 @@
         </div>
         <div class="page-title-clear"></div>
 
-        <div id="menu-main" class="menu menu-box-left rounded-0" data-menu-width="280" data-menu-active="nav-welcome"
+        <div id="menu-main" class="menu menu-box-left rounded-0" data-menu-width="280" data-men-active="nav-welcome"
             data-menu-load="{{ route('main') }}"></div>
         <div id="menu-share" class="menu menu-box-bottom rounded-m" data-menu-load="menu-share.blade.php"
             data-menu-height="370"> </div>
