@@ -57,7 +57,7 @@
             </div>
             <div class="content mb-3 mt-n3">
                 <div class="gallery gallery-filter">
-                    @foreach ($galery as $items)
+                    @foreach ($galery as $item)
                         <a href="{{asset('images/Gallery/'.$item->path)}}" data-gallery="{{$item->kategori}}" class="filtr-item" title="{{$item->tittle}}" data-category="{{$item->kode}}">
                             <img src="{{asset('images/Gallery/'.$item->path)}}" data-src="{{asset('images/Gallery/'.$item->path)}}" class="preload-img rounded-s shadow-m" alt="sample image">
                         </a>
