@@ -52,7 +52,7 @@
                 {{-- <div class="input-style no-borders has-icon validate-field mb-4">
                     <i class="fa fa-at"></i>
                     <input type="email" class="form-control validate-name" id="email" placeholder="Email Address">
-                    <label for="email" class="color-highlight">Us</label>
+                    <label for="email" class="color-highlight">Username</label>
                     <i class="fa fa-times disabled invalid color-red-dark"></i>
                     <i class="fa fa-check disabled valid color-green-dark"></i>
                     <em>(required)</em>
