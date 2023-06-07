@@ -15,7 +15,7 @@
     <div class="row text-center mb-3 pl-3 pr-3">
         <a class="font-11 col-4" href="#">Privacy Policy</a>
         <a class="font-11 col-4" href="#">Terms of Service</a>
-        <a class="font-11 col-4" href="#">Contact Supports</a>
+        <a class="font-11 col-4" href="#">Contact Support</a>
     </div>
     
 </div>
