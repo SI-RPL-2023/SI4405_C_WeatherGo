@@ -26,13 +26,13 @@
                 </a>
                 <a href="#" data-change-highlight="yellow">
                     <i class="gradient-yellow color-white"></i>
-                    
+                    <span>Yellow</span>
                 </a>
             </div>
         </div>
         <div class="col-6">
             <div class="list-group list-custom-small list-menu">
-                <a href="#" data-change-highlight="dark">
+                
                     <i class="gradient-dark color-white"></i>
                     <span>Dark</span>
                 </a>
