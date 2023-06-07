@@ -21,7 +21,7 @@
                     <span>Orange</span>
                 </a>
                 <a href="#" data-change-highlight="green">
-                    <i class="gradient-green color-white"></i>
+                    
                     <span>Green</span>
                 </a>
                 <a href="#" data-change-highlight="yellow">
