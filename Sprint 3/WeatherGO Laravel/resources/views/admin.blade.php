@@ -94,11 +94,11 @@
             <div class="col-6">
                 <div class="card mx-0 card-style" data-card-height="260">
                     <div class="content">
-                        <h5 class="font-14 opacity-50">Average<a href="#" class="float-end color-highlight"><i class="fa fa-arrow-right"></i></a></h5>
+                        <h5 class="font-14 opacity-50">Average <a href="#" class="float-end color-highlight"><i class="fa fa-arrow-right"></i></a></h5>
                         <div class="divider mb-3"></div>
 
                         <div class="mb-4">
-                            <h5>Memor<span class="opacity-30 float-end">30%</span></h5>
+                            <h5>Memory<span class="opacity-30 float-end">30%</span></h5>
                             <div class="progress" style="height:8px;">
                                 <div class="progress-bar border-0 bg-green-dark text-start ps-2" 
                                      role="progressbar" style="width: 30%" 

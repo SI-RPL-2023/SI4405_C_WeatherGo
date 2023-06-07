@@ -22,7 +22,7 @@
 <div id="page">
     
     <div class="header header-fixed header-logo-center header-auto-show">
-        <a href="index.html" class="header-title">About Us </a>
+        <a href="index.html" class="header-title">About Us</a>
         <a href="#" data-back-button class="header-icon header-icon-1"><i class="fas fa-chevron-left"></i></a>
         <a href="#" data-menu="menu-main" class="header-icon header-icon-4"><i class="fas fa-bars"></i></a>
         <a href="#" data-toggle-theme class="header-icon header-icon-3 show-on-theme-dark"><i class="fas fa-sun"></i></a>
@@ -67,7 +67,7 @@
         
         <div class="card card-style">
             <div class="content">
-                <p class="mb-0 font-600 color-highlight">WeatherGO</p>
+                <p class="mb-0 font-600 color-highlight">GoWeather</p>
                 <h1>About Us</h1>
                 <p>
                     Welcome to our website! We are your one-stop destination for easy navigation, weather updates, and a touch of music to make your journey smooth and enjoyable. With our user-friendly features, we aim to simplify your travel experience. With our navigation feature, you can effortlessly find the best routes and receive step-by-step directions to reach your destination hassle-free. Say goodbye to getting lost and hello to stress-free travel. Stay informed about the weather conditions with our real-time weather updates. Check the forecast, be prepared for any changes, and make informed decisions for your trip. To add a touch of joy to your journey, we offer a music feature. Create personalized playlists or explore our curated collections to enjoy your favorite tunes as you travel. Our commitment is to make your travel experience easier, more convenient, and enjoyable. We continuously strive to enhance our platform and provide you with the best navigation, weather, and music features.
@@ -80,7 +80,7 @@
                 <div class="card card-style">
                     <img src="{{asset('images/orang (3).png')}}" class="img-fluid">
                     <div class="content pb-0">
-                        <p class="mb-n1 color-highlight font-600">Anisa</p>
+                        <p class="mb-n1 color-highlight font-600">Annisa</p>
                         <h1>Project Manager</h1>
                         <p class="mb-0">Responsible for planning, organizing, controlling and managing the entire project so that the project runs smoothly and successfully.</p>
                     </div>            
@@ -90,7 +90,7 @@
                 <div class="card card-style">
                     <img src="{{asset('images/orang (1).png')}}" class="img-fluid">
                     <div class="content pb-0">
-                        <p class="mb-n1 color-highlight font-600">Fahreza, Afif, Daffa, Raissa, Pradika</p>
+                        <p class="mb-n1 color-highlight font-600">Fahreza, Afif, Daffa, Raissa, Dika</p>
                         <h1>Programmer</h1>
                         <p class="mb-0">mCreating instructions and program integration with the backend is related to data, and the frontend is related to the appearance of the program.</p>
                     </div>            
