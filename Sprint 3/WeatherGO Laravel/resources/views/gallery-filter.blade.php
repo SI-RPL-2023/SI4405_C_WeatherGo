@@ -22,7 +22,7 @@
 <div id="page">
     
     <div class="header header-fixed header-logo-center">
-        <a href="{{route('galery')}}" class="header-title">Gallerys</a>
+        <a href="{{route('galery')}}" class="header-title">Gallery</a>
         <a href="#" data-back-button class="header-icon header-icon-1"><i class="fa fa-chevron-left"></i></a>
         <a href="#" data-toggle-theme class="header-icon header-icon-3 show-on-theme-dark"><i class="fas fa-sun"></i></a>
         <a href="#" data-toggle-theme class="header-icon header-icon-3 show-on-theme-light"><i class="fas fa-moon"></i></a>
