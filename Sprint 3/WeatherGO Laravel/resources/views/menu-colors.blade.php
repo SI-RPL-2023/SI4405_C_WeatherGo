@@ -21,12 +21,12 @@
                     <span>Orange</span>
                 </a>
                 <a href="#" data-change-highlight="green">
-                    
+                    <i class="gradient-green color-white"></i>
                     <span>Green</span>
                 </a>
                 <a href="#" data-change-highlight="yellow">
                     <i class="gradient-yellow color-white"></i>
-                    <span>Yellow</span>
+                    
                 </a>
             </div>
         </div>
