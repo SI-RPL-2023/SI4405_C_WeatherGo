@@ -209,7 +209,7 @@
 
     <!-- Menu Share -->
     <div id="menu-share" class="menu menu-box-bottom menu-box-detached">
-        <div class="menu-title mt-n1"><h1>Share</h1><p class="color-highlight">Just Tap the Social Icon. We'll add the Link</p><a href="#" class="close-menu"><i class="fa fa-times"></i></a></div>
+        <div class="menu-title mt-n1"><h1>S</h1><p class="color-highlight">Just Tap the Social Icon. We'll add the Link</p><a href="#" class="close-menu"><i class="fa fa-times"></i></a></div>
         <div class="content mb-0">
             <div class="divider mb-0"></div>
             <div class="list-group list-custom-small list-icon-0">
