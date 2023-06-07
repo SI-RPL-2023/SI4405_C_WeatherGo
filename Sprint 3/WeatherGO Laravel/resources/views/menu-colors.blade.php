@@ -32,7 +32,7 @@
         </div>
         <div class="col-6">
             <div class="list-group list-custom-small list-menu">
-                
+                <a href="#" data-change-highlight="dark">
                     <i class="gradient-dark color-white"></i>
                     <span>Dark</span>
                 </a>
@@ -42,7 +42,7 @@
                 </a>
                 <a href="#" data-change-highlight="teal">
                     <i class="gradient-teal color-white"></i>
-                    <span>Teal</span>
+                    
                 </a>
                 <a href="#" data-change-highlight="magenta">
                     <i class="gradient-magenta color-white"></i>
