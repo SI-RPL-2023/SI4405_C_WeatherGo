@@ -68,7 +68,7 @@
                 <form action="{{route('storeProfile')}}" method="post">
                     @csrf
                     <p class="mb-n1 color-highlight font-600 font-12">Edit your Account</p>
-                    <h4>Basic Infor</h4>
+                    <h4>Basic Inform</h4>
                     <p>
                         Public information that shows on top of your card in your profile page. This is just a dummy page.
                     </p>
