@@ -8,7 +8,7 @@
         <div class="input-style has-borders input-style-always-active no-icon mb-4">
             <textarea id="form7" placeholder="" style="height:150px;"></textarea>
             <label for="form7" class="color-highlight">Enter your Message</label>
-            
+            <em class="mt-n3">(required)</em>
         </div>
     </div>
 </div>
