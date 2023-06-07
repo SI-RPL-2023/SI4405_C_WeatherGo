@@ -42,7 +42,7 @@
                 </a>
                 <a href="#" data-change-highlight="teal">
                     <i class="gradient-teal color-white"></i>
-                    
+                    <span>Teal</span>
                 </a>
                 <a href="#" data-change-highlight="magenta">
                     <i class="gradient-magenta color-white"></i>
