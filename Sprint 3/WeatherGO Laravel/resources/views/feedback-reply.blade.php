@@ -27,7 +27,7 @@
     <div id="page">
 
         <div class="header header-auto-show header-fixed header-logo-center">
-            <a href="{{ route('home') }}" class="header-title">WeatherGo</a>
+            <a href="{{ route('home') }}" class="header-title">WeatherGO</a>
             <a href="#" data-menu="menu-main" class="header-icon header-icon-1"><i class="fas fa-bars"></i></a>
             <a href="#" data-toggle-theme class="header-icon header-icon-4 show-on-theme-dark"><i
                     class="fas fa-sun"></i></a>
@@ -96,7 +96,7 @@
                                     aria-label="
                 Desa
             : activate to sort column ascending">
-                                    Reply Massage
+                                    Reply Message
                                 </th>
                             </tr>
                         </thead>
